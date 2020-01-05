@@ -1,0 +1,40 @@
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\bin\Debug\TA_PBD15E.exe.config
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\bin\Debug\TA_PBD15E.exe
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\bin\Debug\TA_PBD15E.pdb
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\obj\Debug\TA_PBD15E.Form1.resources
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\obj\Debug\TA_PBD15E.Properties.Resources.resources
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\obj\Debug\TA_PBD15E.csproj.GenerateResource.Cache
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\obj\Debug\TA_PBD15E.exe
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\obj\Debug\TA_PBD15E.pdb
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\obj\Debug\TA_PBD15E.csprojResolveAssemblyReference.cache
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_Siswa.resources
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_Panitia.resources
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_ProgramStudi.resources
+D:\TA_PBD\TA_PBD15E\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_Pendaftaran.resources
+D:\TA_PBD\Ta_pbd15e\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_login.resources
+D:\TA_PBD\Ta_pbd15e\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_CariPanitia.resources
+D:\TA_PBD\Ta_pbd15e\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_CariSiswa.resources
+D:\TA_PBD\Ta_pbd15e\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_RegistrasiPendaftaran.resources
+D:\TA_PBD\Ta_pbd15e\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_CariProdi.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\bin\Debug\TA_PBD15E.exe.config
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.exe
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.pdb
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\bin\Debug\TA_PBD15E.exe
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\bin\Debug\TA_PBD15E.pdb
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.csprojResolveAssemblyReference.cache
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.Form1.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_CariPanitia.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_CariProdi.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_CariSiswa.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_login.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_Panitia.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_ProgramStudi.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_RegistrasiPendaftaran.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.Frm_Siswa.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.Properties.Resources.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.csproj.GenerateResource.Cache
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.CetakProdi.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.CetakPanitia.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.CetakPendaftar.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.CetakSiswa.resources
+D:\TA_PBD\Ta_pbd15e-DIAN NOVITA SARI - 15312544\TA_PBD15E\obj\Debug\TA_PBD15E.FormCetakFaktur.resources
